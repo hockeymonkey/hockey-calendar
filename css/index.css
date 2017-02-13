@@ -1,3 +1,7 @@
+.jumbotron{
+	background-color: lightblue;
+}
+
 .responsive-calendar{
 	position: relative;
 	padding-bottom: 75%;
@@ -7,7 +11,7 @@
  
 .responsive-calendar iframe{
 	position: absolute;
-	top:0;
+	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
